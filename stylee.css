@@ -1,0 +1,63 @@
+
+/* Bütün elementleri ortaladım*/
+body {
+    text-align: center;
+}
+/* kutularımı ve yazılarımın boyunu ayarladım*/
+.input {
+    background-color: rgba(176, 176, 176, 0.256);
+    font-size: 17px;
+}
+
+.input2 {
+    padding: 3px;
+    margin: 5px;
+    padding-left: 200px;
+}
+
+.container {
+    background-color: transparent;
+}
+ 
+/* eklediğim resim uzanıtısını göz kararı aşşağıya çektim*/
+img {
+    padding-top: 11%;
+}
+
+
+.kutu1 {
+    background-color: aqua;
+    width: 580px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+    align-items: center;
+    
+
+}
+.kutu2 {
+    background-color: aqua;
+    width: 520px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+    align-items: center;
+
+
+
+
+
+}
+.kutu3 {
+    background-color: aqua;
+    width: 580px;
+    height: 120px;
+    float: left;
+    margin: 5px;
+    align-items: center;
+
+
+
+
+
+}
